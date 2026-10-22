@@ -31,17 +31,17 @@ A RAG-based (Retrieval Augmented Generation) tool that lets you upload research 
 
 \## Tech Stack
 
-\- \*\*PDF Parsing:\*\* pypdf
+\- PDF Parsing: pypdf
 
-\- \*\*Chunking:\*\* LangChain RecursiveCharacterTextSplitter
+\- Chunking: LangChain RecursiveCharacterTextSplitter
 
-\- \*\*Embeddings:\*\* sentence-transformers (all-MiniLM-L6-v2)
+\- Embeddings: sentence-transformers (all-MiniLM-L6-v2)
 
-\- \*\*Vector Store:\*\* FAISS
+\- Vector Store: FAISS
 
-\- \*\*LLM:\*\* Llama 3.3 70B via Groq API
+\- LLM: Llama 3.3 70B via Groq API
 
-\- \*\*Frontend:\*\* Streamlit
+\- Frontend: Streamlit
 
 
 
